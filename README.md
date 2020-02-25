@@ -11,14 +11,18 @@
  * DAVID NJENGA
 
  ### DESCRIPTION 
-  This is a group trial run to see if we can be able to apply the lessons taught about collaboration
+ This is a group trial run to see if we can be able to apply the lessons taught about collaboration
+   
+## Technologies Used
+HTML
+CSS
+Bootsrap
+JQuery
+Javascript
 
-## Support and Contact Information
-* Bundi -> Email: bundi@gmail.com
-* David -> Email: mdnjenga@gmail.com
-* Samuel -> Email: samtheninja@gmail.com
-* Louise -> Email: louisenjeri@gmail.com
-* Lisa -> Email: jebetthuo@gmail.com
+## Known Bugs
+none
+
 
 ## BDD
 <UL>
@@ -28,10 +32,20 @@ As an example</LI>
 <LI>Name: Asha Fatuma,Gender:female,DoB:7/30/1999 should give Friday-Afua</LI>
 </OL>
 
+
+
 ## SETUP SECTION by KIMANI MBATA
 
 Name: Kimani Mbatia
 git address: [gear5km](https://github.com/gear5km)
+
+
+## Support and Contact Information
+* Bundi -> Email: bundi@gmail.com
+* David -> Email: mdnjenga@gmail.com
+* Samuel -> Email: samtheninja@gmail.com
+* Louise -> Email: louisenjeri@gmail.com
+* Lisa -> Email: jebetthuo@gmail.com
 
 
 ### License
