@@ -1,4 +1,11 @@
-readme.
+
+## Support and Contact Information
+* Bundi -> Email: bundi@gmail.com
+* David -> Email: mdnjenga@gmail.com
+* Samuel -> Email: samtheninja@gmail.com
+* Louise -> Email: louisenjeri@gmail.com
+* Lisa -> Email: jebetthuo@gmail.com
+
 ## BDD
 <UL>
 <LI>As an example i want the project to calculate the users date of birth to the exact day born so that the user can get to know their akan name as a result</LI>
@@ -11,9 +18,3 @@ As an example</LI>
 /
 /Name: Kimani Mbatia
 /git address: [gear5km](https://github.com/gear5km)
-/
-/
-/
-/
-/
-/
