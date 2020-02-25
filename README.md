@@ -1,4 +1,18 @@
 
+# SCRAM MASTER
+
+## AUTHORS
+ * SAM NGANGA
+ * LISA THUO 
+ * LILIAN NJAMBI
+ * KIMANI MBATIA
+ * LOUISE MANYARA
+ * BUNDI MANASSEH
+ * DAVID NJENGA
+
+ ### DESCRIPTION 
+  This is a group trial run to see if we can be able to apply the lessons taught about collaboration
+
 ## Support and Contact Information
 * Bundi -> Email: bundi@gmail.com
 * David -> Email: mdnjenga@gmail.com
@@ -14,10 +28,11 @@ As an example</LI>
 <LI>Name: Asha Fatuma,Gender:female,DoB:7/30/1999 should give Friday-Afua</LI>
 </OL>
 
-<SETUP SECTION by KIMANI MBATA>
-/
-/Name: Kimani Mbatia
-/git address: [gear5km](https://github.com/gear5km)
+## SETUP SECTION by KIMANI MBATA
+
+Name: Kimani Mbatia
+git address: [gear5km](https://github.com/gear5km)
+
 
 ### License
 *{MIT License
@@ -28,3 +43,4 @@ Permission is hereby granted, free of charge, to any person obtaining a copy of 
 The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.}
+
