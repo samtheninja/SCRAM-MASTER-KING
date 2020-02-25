@@ -6,3 +6,14 @@ readme.
 As an example</LI>
 <LI>Name: Asha Fatuma,Gender:female,DoB:7/30/1999 should give Friday-Afua</LI>
 </OL>
+
+<SETUP SECTION by KIMANI MBATA>
+/
+/Name: Kimani Mbatia
+/git address: [gear5km](https://github.com/gear5km)
+/
+/
+/
+/
+/
+/
